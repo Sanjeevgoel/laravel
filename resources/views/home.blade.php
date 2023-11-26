@@ -3,6 +3,7 @@
 <div class="banner" style="background:url({{ url('/assets/page-header.jpg') }})">
 	<div class="container">
 		<div class="row">
+            <div>fdsgsdfgfdsgdfsgdf</div>
 			<div class="col-md-12">
 					<div class="card-header1">{{ __('Home') }}</div>
 			</div>
@@ -12,6 +13,7 @@
 <div class="container  py-4">
     <div class="row justify-content-center">
         <div class="col-md-12">
+            <div>fdsgdfhsdhdhds</div>
             <div class="card">
                 <div class="card-header">{{ __('Home') }}</div>
                <?php /* <div class="card-body">
